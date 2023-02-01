@@ -8,6 +8,7 @@ namespace Tests {
 		[Test]
 		public void EditmodeTestScripExampleSimplePasses () {
             Assert.AreNotEqual(2, 2);
+            //Test
 		}
 
 		[UnityTest]
